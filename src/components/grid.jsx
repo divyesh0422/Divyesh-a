@@ -68,7 +68,7 @@ const GameListing = () => {
       downloads: "922k+",
       bonus: 91,
       minWithdrawal: 200,
-      imageUrl: "src/assets/2.webp",
+      imageUrl: "https://bit.ly/437XWg1",
       downloadLink: "https://invite.aagameclub.com/?code=OO4J7CS"
     },
     {
