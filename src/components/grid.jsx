@@ -59,7 +59,7 @@ const GameListing = () => {
       downloads: "302k+",
       bonus: 79,
       minWithdrawal: 150,
-      imageUrl: "src/assets/1.webp",
+      imageUrl: "https://scontent.famd3-3.fna.fbcdn.net/v/t39.30808-6/494695477_122124726776731252_5339301535835644836_n.webp?stp=dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6e4oWpUttzYQ7kNvwHRLFvX&_nc_oc=AdlrJhgM1_1hdENWaVuC07-jYk6UlVQhhjjw_v0K6zGq4dfzm_cSOtwfXqiiGKUd2uU&_nc_zt=23&_nc_ht=scontent.famd3-3.fna&_nc_gid=jpyB0ZTkMKbLqp-FWEJo2A&oh=00_AfE2kygc7lW1Z7V4hkn7OOMEI233192U4GA1GQmr4IzN7w&oe=6818A633",
       downloadLink: "https://invite.bfgame9.com/?code=JP0SDPZ"
     },
     {
