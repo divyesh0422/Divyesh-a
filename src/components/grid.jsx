@@ -131,7 +131,7 @@ const GameListing = () => {
       downloads: "650k+",
       bonus: 110,
       minWithdrawal: 500,
-      imageUrl: "src/assets/9.webp",
+      imageUrl: "https://scontent.famd3-2.fna.fbcdn.net/v/t39.30808-6/494430907_122124727550731252_4725806514131559071_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SIvWR3Ai5iwQ7kNvwG7dJfG&_nc_oc=Adlrd5gJqJvSB-pIG0lTfJSPzos4-QAJbnqC_SBY-fL_EPEF1AxrfWvxfKWXVMrqguU&_nc_zt=23&_nc_ht=scontent.famd3-2.fna&_nc_gid=d_4oBuHbELb0Eby1i88iTA&oh=00_AfGsbJeLGpjwdXTmlHB1ic4hTa6qvw5MmolqtEMORPeEYA&oe=6818B4C2",
       downloadLink: "https://invite.p77.game/?code=JFDR6LS"
     },
     {
@@ -140,7 +140,7 @@ const GameListing = () => {
       downloads: "320k+",
       bonus: 60,
       minWithdrawal: 200,
-      imageUrl: "src/assets/10.webp",
+      imageUrl: "https://scontent.famd3-3.fna.fbcdn.net/v/t39.30808-6/494225476_122124727658731252_1018562030286485335_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=P8WDf4kGHaYQ7kNvwGP_Duf&_nc_oc=AdnWAz-jjy6LHzADjJZqt4Y98CbIsm0ttGCE0q0C9FebJMTyd7-TzE3-zd2qjgDfD0k&_nc_zt=23&_nc_ht=scontent.famd3-3.fna&_nc_gid=EG-pVVqJD1sDzt7g11RTgg&oh=00_AfGlJ9p9mCIOrByUrkL1wWgDQd-XUt3RwLOiuvA9IY8sXw&oe=6818E09C",
       downloadLink: "https://invite.slotinr.game/?code=DZZI7IZ"
     },
     {
@@ -149,7 +149,7 @@ const GameListing = () => {
       downloads: "780k+",
       bonus: 120,
       minWithdrawal: 400,
-      imageUrl: "src/assets/img9.jpeg",
+      imageUrl: "https://scontent.famd3-2.fna.fbcdn.net/v/t39.30808-6/494315748_122124727856731252_2879670523727188331_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=E5rA0UD4BBUQ7kNvwE3sLOP&_nc_oc=AdllvqUOZT25bSB8lYQImaP8bjoNCga4taNWEAUas6vZMFf92OkUzZKhRZtKFNCyrOQ&_nc_zt=23&_nc_ht=scontent.famd3-2.fna&_nc_gid=eUJqbtlv0C_fLh922lpMsA&oh=00_AfFh3sfLlnUGg5BWumWpya5Yz1oI_OQ8SaoVc4M0q42Bcw&oe=6818B257",
       downloadLink: "https://cdn8.tp3win.com/cdn/download/sagar_new_v2/index.html?i=16306849&c=Tp3winpoker363GG01&e=pro&s=a"
     },
     {
