@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+
 import { FaFacebook, FaTwitter, FaInstagram, FaDownload, FaTelegram } from 'react-icons/fa';
 import { GiHamburgerMenu } from 'react-icons/gi';
 
@@ -7,11 +8,12 @@ const Navbar = () => {
 
   return (
     <nav className="bg-black shadow-md">
+    
       <div className="max-w-6xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           {/* Logo/Brand */}
           <div className="flex-shrink-0">
-            <h1 className="text-xl font-bold text-red-600">allrummybonusapp</h1>
+            <h1 className="text-xl font-bold text-red-600" >allrummybonusapp</h1>
           </div>
 
           {/* Desktop Navigation */}
@@ -19,7 +21,7 @@ const Navbar = () => {
             <a href="#privacy" className="text-white hover:text-blue-600 transition">
               Privacy Policy
             </a>
-            <a href="#apps" className="text-white hover:text-blue-600 transition">
+            <a href="https://allrummybonusapp.online/" className="text-white hover:text-blue-600 transition">
               All Rummy Apps
             </a>
             <a href="#contact" className="text-white hover:text-blue-600 transition">
