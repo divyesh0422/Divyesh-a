@@ -197,7 +197,25 @@ const GameListing = () => {
       imageUrl: "https://scontent.famd3-3.fna.fbcdn.net/v/t39.30808-6/494716471_122124727544731252_5632736322598789601_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=W6J0_eiDYYoQ7kNvwHcBoO5&_nc_oc=AdlHlHmvKz7ulx5APODSFSkQ1aZzdFywugBdQXtB4t17ZovSAuf8MnupDwmlsQnUXU0&_nc_zt=23&_nc_ht=scontent.famd3-3.fna&_nc_gid=p_-p4V9dEIz8iFHwqvGMLQ&oh=00_AfG_BMj8PkfMIKY3bXhkvdz6YgVVRuvDVBkYoUAStRsukQ&oe=6818B440",
       downloadLink: "https://g.k9.game/?invite_code=0004a266"
     },
-    
+    {
+      id: 17,
+      title: "Rummy Jeet",
+      downloads: "520k+",
+      bonus: 80,
+      minWithdrawal: 100,
+      imageUrl: "https://scontent.famd3-1.fna.fbcdn.net/v/t39.30808-6/495237386_122125794632731252_3940202495883381507_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JijXOOrF06kQ7kNvwH2Bsyb&_nc_oc=AdltRLFq3lx0b0pahOSdQNWSxrq_Z1FeIQBCazaGKPIdTyYcZRSfydXHBmxf5gOVb-E&_nc_zt=23&_nc_ht=scontent.famd3-1.fna&_nc_gid=Wu7vhZnzYCkx30M7VWvzUA&oh=00_AfIMR46G5KgQjdwprhlp7xV6q6H0TC_BOTR-V9Kc9tN7Fg&oe=682106B2",
+      downloadLink: "https://invite.jeetl.com/?code=R4FF7XS"
+    },
+
+    {
+      id: 18,
+      title: "Big 444",
+      downloads: "520k+",
+      bonus: 80,
+      minWithdrawal: 100,
+      imageUrl: "https://scontent.famd3-1.fna.fbcdn.net/v/t39.30808-6/495518862_122125796510731252_6588624021286811975_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qmyEgAQnWpwQ7kNvwGaua6y&_nc_oc=AdngLbn11FwdWbrpPPTfk-hJXM3nwB1I9zNh4Fm21ZjunyQFPZOs89y3-fPFpzBydW8&_nc_zt=23&_nc_ht=scontent.famd3-1.fna&_nc_gid=FZ7ec5CuHFPjEQKHg7D3Lw&oh=00_AfKfm9yigvAnftDk_jnRHlIW4isGXLA3JX91OarJzE2Vcg&oe=68212C3D",
+      downloadLink: "https://www.big444.bet/register?referralCode=cvr7473&affiliateCode=daili888"
+    },
 
   ];
 
